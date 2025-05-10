@@ -1,0 +1,10 @@
+{
+    "name": "Gehendra",
+    "age": 22,
+    "is_student": true,
+    "skills": [
+        "Python",
+        "Java",
+        "PHP"
+    ]
+}
